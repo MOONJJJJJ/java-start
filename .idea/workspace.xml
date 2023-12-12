@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="sectioin 1">
-      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="2 - 변수 시작">
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Var2">
+  <component name="RunManager" selected="애플리케이션.Var3">
     <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava" />
       <module name="java-start" />
@@ -102,8 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.Var3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Var3" />
         <item itemvalue="애플리케이션.Var2" />
         <item itemvalue="애플리케이션.Var1" />
         <item itemvalue="애플리케이션.HelloJava" />
@@ -126,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702386821532</updated>
-      <workItem from="1702386822743" duration="2976000" />
+      <workItem from="1702386822743" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -136,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702389435998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 - 변수 시작">
+      <option name="closed" value="true" />
+      <created>1702390244211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702390244211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +164,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sectioin 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="sectioin 1" />
+    <MESSAGE value="2 - 변수 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 변수 시작" />
   </component>
 </project>
