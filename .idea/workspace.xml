@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="2 - 변수 타입2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="2 - 변수 멍멍 규칙">
+      <change afterPath="$PROJECT_DIR$/src/variable/VarEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,52 +65,13 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Var8">
-    <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var3" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Var5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var5" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Var6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var6" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.VarEx3">
     <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Var7" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,7 +84,46 @@
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.VarEx3" />
+        <item itemvalue="애플리케이션.VarEx2" />
+        <item itemvalue="애플리케이션.VarEx1" />
         <item itemvalue="애플리케이션.Var8" />
         <item itemvalue="애플리케이션.Var7" />
-        <item itemvalue="애플리케이션.Var6" />
-        <item itemvalue="애플리케이션.Var5" />
-        <item itemvalue="애플리케이션.Var3" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702386821532</updated>
-      <workItem from="1702386822743" duration="5531000" />
+      <workItem from="1702386822743" duration="5894000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -207,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702391970773</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2 - 변수 멍멍 규칙">
+      <option name="closed" value="true" />
+      <created>1702392724087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702392724087</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +227,7 @@
     <MESSAGE value="2 - 변수 선언과 초기화" />
     <MESSAGE value="2 - 변수 타입1" />
     <MESSAGE value="2 - 변수 타입2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - 변수 타입2" />
+    <MESSAGE value="2 - 변수 멍멍 규칙" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 변수 멍멍 규칙" />
   </component>
 </project>
