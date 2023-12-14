@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="3 - 산술 연산자">
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="3 - 문자열 더하기">
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,8 @@
     "애플리케이션.HelloJava.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Operator2.executor": "Run",
+    "애플리케이션.Operator3.executor": "Run",
+    "애플리케이션.Operator4.executor": "Run",
     "애플리케이션.Var1.executor": "Run",
     "애플리케이션.Var2.executor": "Run",
     "애플리케이션.Var3.executor": "Run",
@@ -178,7 +181,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702386821532</updated>
       <workItem from="1702386822743" duration="6799000" />
-      <workItem from="1702562912214" duration="692000" />
+      <workItem from="1702562912214" duration="1093000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -252,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702563461951</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="3 - 문자열 더하기">
+      <option name="closed" value="true" />
+      <created>1702563620579</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702563620579</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +279,7 @@
     <MESSAGE value="2 - 변수 멍멍 규칙" />
     <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 산술 연산자" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - 산술 연산자" />
+    <MESSAGE value="3 - 문자열 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 - 문자열 더하기" />
   </component>
 </project>
