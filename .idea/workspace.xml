@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="3 - 증감 연산자">
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="3 - 비교 연산자">
+      <change afterPath="$PROJECT_DIR$/src/operator/Logical1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Logical2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +184,7 @@
       <updated>1702386821532</updated>
       <workItem from="1702386822743" duration="6799000" />
       <workItem from="1702562912214" duration="1722000" />
-      <workItem from="1702826454847" duration="630000" />
+      <workItem from="1702826454847" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702826743648</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="3 - 비교 연산자">
+      <option name="closed" value="true" />
+      <created>1702827122421</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702827122421</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +309,7 @@
     <MESSAGE value="3 - 문자열 더하기" />
     <MESSAGE value="3 - 연산자 우선순위" />
     <MESSAGE value="3 - 증감 연산자" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - 증감 연산자" />
+    <MESSAGE value="3 - 비교 연산자" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 - 비교 연산자" />
   </component>
 </project>
