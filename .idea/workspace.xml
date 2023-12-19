@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - for문1">
-      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - 중첩 반복문">
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +202,7 @@
       <workItem from="1702562912214" duration="1722000" />
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
-      <workItem from="1702999665690" duration="1787000" />
+      <workItem from="1702999665690" duration="2100000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -444,15 +444,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703001376274</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="5 - for문2">
+      <option name="closed" value="true" />
+      <created>1703001551694</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1703001551694</updated>
+    </task>
+    <task id="LOCAL-00032" summary="5 - 중첩 반복문">
+      <option name="closed" value="true" />
+      <created>1703001777357</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1703001777357</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - 변수 타입1" />
-    <MESSAGE value="2 - 변수 타입2" />
     <MESSAGE value="2 - 변수 멍멍 규칙" />
     <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 산술 연산자" />
@@ -476,6 +490,8 @@
     <MESSAGE value="5 - do-while문" />
     <MESSAGE value="5 - break, continue" />
     <MESSAGE value="5 - for문1" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - for문1" />
+    <MESSAGE value="5 - for문2" />
+    <MESSAGE value="5 - 중첩 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 중첩 반복문" />
   </component>
 </project>
