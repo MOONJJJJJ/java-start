@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - do-while문">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Continue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - for문1">
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +202,7 @@
       <workItem from="1702562912214" duration="1722000" />
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
-      <workItem from="1702999665690" duration="1480000" />
+      <workItem from="1702999665690" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -429,15 +428,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703001082009</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="5 - break, continue">
+      <option name="closed" value="true" />
+      <created>1703001165824</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1703001165824</updated>
+    </task>
+    <task id="LOCAL-00030" summary="5 - for문1">
+      <option name="closed" value="true" />
+      <created>1703001376274</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1703001376274</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - 변수 값 변경" />
-    <MESSAGE value="2 - 변수 선언과 초기화" />
     <MESSAGE value="2 - 변수 타입1" />
     <MESSAGE value="2 - 변수 타입2" />
     <MESSAGE value="2 - 변수 멍멍 규칙" />
@@ -461,6 +474,8 @@
     <MESSAGE value="5 - while문1" />
     <MESSAGE value="5 - while문2" />
     <MESSAGE value="5 - do-while문" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - do-while문" />
+    <MESSAGE value="5 - break, continue" />
+    <MESSAGE value="5 - for문1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - for문1" />
   </component>
 </project>
