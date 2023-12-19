@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - while문2" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - do-while문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +200,7 @@
       <workItem from="1702562912214" duration="1722000" />
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
-      <workItem from="1702999665690" duration="809000" />
+      <workItem from="1702999665690" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -410,14 +410,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703000469167</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="5 - do-while문">
+      <option name="closed" value="true" />
+      <created>1703000605033</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1703000605033</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - 변수 시작" />
     <MESSAGE value="2 - 변수 값 변경" />
     <MESSAGE value="2 - 변수 선언과 초기화" />
     <MESSAGE value="2 - 변수 타입1" />
@@ -442,6 +449,7 @@
     <MESSAGE value="5 - 반복문 시작" />
     <MESSAGE value="5 - while문1" />
     <MESSAGE value="5 - while문2" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - while문2" />
+    <MESSAGE value="5 - do-while문" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - do-while문" />
   </component>
 </project>
