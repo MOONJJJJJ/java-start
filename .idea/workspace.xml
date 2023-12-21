@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - 중첩 반복문">
-      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="5 - 문제와 풀이2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,69 +45,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/repos/java-start/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/user/Desktop/repos/java-start/src/Main.java",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Comp1.executor": "Run",
-    "애플리케이션.CondOp1.executor": "Run",
-    "애플리케이션.HelloJava.executor": "Run",
-    "애플리케이션.If1.executor": "Run",
-    "애플리케이션.If2.executor": "Run",
-    "애플리케이션.If3.executor": "Run",
-    "애플리케이션.If4.executor": "Run",
-    "애플리케이션.If5.executor": "Run",
-    "애플리케이션.If6.executor": "Run",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.OperationEx1.executor": "Run",
-    "애플리케이션.OperationEx2.executor": "Run",
-    "애플리케이션.OperationEx3.executor": "Run",
-    "애플리케이션.Operator2.executor": "Run",
-    "애플리케이션.Operator3.executor": "Run",
-    "애플리케이션.Operator4.executor": "Run",
-    "애플리케이션.OperatorAdd1.executor": "Run",
-    "애플리케이션.Switch1.executor": "Run",
-    "애플리케이션.Switch2.executor": "Run",
-    "애플리케이션.Switch3.executor": "Run",
-    "애플리케이션.Switch4.executor": "Run",
-    "애플리케이션.Var1.executor": "Run",
-    "애플리케이션.Var2.executor": "Run",
-    "애플리케이션.Var3.executor": "Run",
-    "애플리케이션.Var5.executor": "Run",
-    "애플리케이션.Var6.executor": "Run",
-    "애플리케이션.Var7.executor": "Run",
-    "애플리케이션.Var8.executor": "Run",
-    "애플리케이션.VarEx1.executor": "Run",
-    "애플리케이션.VarEx2.executor": "Run",
-    "애플리케이션.VarEx3.executor": "Run",
-    "애플리케이션.While1_1.executor": "Run",
-    "애플리케이션.While1_2.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/repos/java-start/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/Desktop/repos/java-start/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Comp1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CondOp1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.HelloJava.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.If6.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperationEx1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperationEx3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Operator2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Operator3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Operator4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperatorAdd1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Switch1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Switch2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Switch3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Switch4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var6.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Var8.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VarEx1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VarEx2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VarEx3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.While1_1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.While1_2.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-start\src\loop\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\loop" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\cond\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\cond" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\operator" />
-      <recent name="C:\Users\user\Desktop\repos\java-start\src\variable" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.Var7">
     <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Var7" />
       <module name="java-start" />
@@ -202,7 +202,7 @@
       <workItem from="1702562912214" duration="1722000" />
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
-      <workItem from="1702999665690" duration="2100000" />
+      <workItem from="1702999665690" duration="2915000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -460,15 +460,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703001777357</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="5 - 문제와 풀이1">
+      <option name="closed" value="true" />
+      <created>1703002015694</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1703002015694</updated>
+    </task>
+    <task id="LOCAL-00034" summary="5 - 문제와 풀이2">
+      <option name="closed" value="true" />
+      <created>1703002278211</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1703002278211</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - 변수 멍멍 규칙" />
-    <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 산술 연산자" />
     <MESSAGE value="3 - 문자열 더하기" />
     <MESSAGE value="3 - 연산자 우선순위" />
@@ -492,6 +506,8 @@
     <MESSAGE value="5 - for문1" />
     <MESSAGE value="5 - for문2" />
     <MESSAGE value="5 - 중첩 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - 중첩 반복문" />
+    <MESSAGE value="5 - 문제와 풀이1" />
+    <MESSAGE value="5 - 문제와 풀이2" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 문제와 풀이2" />
   </component>
 </project>
