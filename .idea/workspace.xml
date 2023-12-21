@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 스코프2 - 스코프 존재 이유" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 형변환1 - 자동 형변환">
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,11 +101,11 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-start\src\casting" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scope" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\loop\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\loop" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\cond\ex" />
-      <recent name="C:\Users\user\Desktop\repos\java-start\src\cond" />
     </key>
   </component>
   <component name="RunManager">
@@ -201,7 +204,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="852000" />
+      <workItem from="1703171743609" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -491,14 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703172531004</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="6 - 형변환1 - 자동 형변환">
+      <option name="closed" value="true" />
+      <created>1703172898107</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1703172898107</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 연산자 우선순위" />
     <MESSAGE value="3 - 증감 연산자" />
     <MESSAGE value="3 - 비교 연산자" />
     <MESSAGE value="3 - 논리 연산자" />
@@ -523,6 +533,7 @@
     <MESSAGE value="5 - 문제와 풀이2" />
     <MESSAGE value="6 - 스코프1 - 지역 변수와 스코프" />
     <MESSAGE value="6 - 스코프2 - 스코프 존재 이유" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 - 스코프2 - 스코프 존재 이유" />
+    <MESSAGE value="6 - 형변환1 - 자동 형변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 - 형변환1 - 자동 형변환" />
   </component>
 </project>
