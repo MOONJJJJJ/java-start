@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 스코프1 - 지역 변수와 스코프">
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 스코프2 - 스코프 존재 이유" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +105,7 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src\cond" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Var7">
+  <component name="RunManager">
     <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Var7" />
       <module name="java-start" />
@@ -204,7 +201,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="551000" />
+      <workItem from="1703171743609" duration="852000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -486,14 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703172017106</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="6 - 스코프2 - 스코프 존재 이유">
+      <option name="closed" value="true" />
+      <created>1703172531004</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1703172531004</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 문자열 더하기" />
     <MESSAGE value="3 - 연산자 우선순위" />
     <MESSAGE value="3 - 증감 연산자" />
     <MESSAGE value="3 - 비교 연산자" />
@@ -518,6 +522,7 @@
     <MESSAGE value="5 - 문제와 풀이1" />
     <MESSAGE value="5 - 문제와 풀이2" />
     <MESSAGE value="6 - 스코프1 - 지역 변수와 스코프" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 - 스코프1 - 지역 변수와 스코프" />
+    <MESSAGE value="6 - 스코프2 - 스코프 존재 이유" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 - 스코프2 - 스코프 존재 이유" />
   </component>
 </project>
