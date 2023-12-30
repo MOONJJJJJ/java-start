@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 계산과 형변환">
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - Scanner 학습" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +202,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="2468000" />
+      <workItem from="1703171743609" duration="2836000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -519,14 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703598637771</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="7 - Scanner 학습">
+      <option name="closed" value="true" />
+      <created>1703909131707</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1703909131707</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 대입 연산자" />
     <MESSAGE value="3 - 문제와 풀이" />
     <MESSAGE value="4 - if문1 - if,else" />
     <MESSAGE value="4 - if문2 - else if" />
@@ -551,6 +555,7 @@
     <MESSAGE value="6 - 형변환2 - 명시적 형변환" />
     <MESSAGE value="6 - 형변환2 - 계산과 형변환" />
     <MESSAGE value="6 - 계산과 형변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 - 계산과 형변환" />
+    <MESSAGE value="7 - Scanner 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 - Scanner 학습" />
   </component>
 </project>
