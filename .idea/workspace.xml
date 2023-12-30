@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 2차원 배열 - 리팩토링1">
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 향상된 for문">
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,11 +113,11 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-start\src\array\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\array" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scanner\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scanner" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\casting" />
-      <recent name="C:\Users\user\Desktop\repos\java-start\src\scope" />
     </key>
   </component>
   <component name="RunManager">
@@ -208,23 +216,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="7346000" />
-    </task>
-    <task id="LOCAL-00003" summary="2 - 변수 값 변경">
-      <option name="closed" value="true" />
-      <created>1702390367037</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1702390367037</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2 - 변수 선언과 초기화">
-      <option name="closed" value="true" />
-      <created>1702390923131</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1702390923131</updated>
+      <workItem from="1703171743609" duration="8036000" />
     </task>
     <task id="LOCAL-00005" summary="2 - 변수 타입1">
       <option name="closed" value="true" />
@@ -602,15 +594,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703917911820</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="8 - 2차원 배열 - 리팩토링2">
+      <option name="closed" value="true" />
+      <created>1703918286660</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1703918286661</updated>
+    </task>
+    <task id="LOCAL-00053" summary="8 - 향상된 for문">
+      <option name="closed" value="true" />
+      <created>1703918579723</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1703918579723</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - do-while문" />
-    <MESSAGE value="5 - break, continue" />
     <MESSAGE value="5 - for문1" />
     <MESSAGE value="5 - for문2" />
     <MESSAGE value="5 - 중첩 반복문" />
@@ -634,6 +640,8 @@
     <MESSAGE value="8 - 배열 리팩토링" />
     <MESSAGE value="8 - 2차원 배열 - 시작" />
     <MESSAGE value="8 - 2차원 배열 - 리팩토링1" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 - 2차원 배열 - 리팩토링1" />
+    <MESSAGE value="8 - 2차원 배열 - 리팩토링2" />
+    <MESSAGE value="8 - 향상된 for문" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - 향상된 for문" />
   </component>
 </project>
