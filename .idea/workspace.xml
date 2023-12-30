@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="9 - 메서드 호출과 값 전달2" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="9 - 메서드와 형변환">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +80,7 @@
     "애플리케이션.Operator3.executor": "Run",
     "애플리케이션.Operator4.executor": "Run",
     "애플리케이션.OperatorAdd1.executor": "Run",
+    "애플리케이션.Overloading3.executor": "Run",
     "애플리케이션.Scanner1.executor": "Run",
     "애플리케이션.Scanner2.executor": "Run",
     "애플리케이션.Switch1.executor": "Run",
@@ -206,15 +209,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="12669000" />
-    </task>
-    <task id="LOCAL-00015" summary="3 - 대입 연산자">
-      <option name="closed" value="true" />
-      <created>1702827908849</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1702827908849</updated>
+      <workItem from="1703171743609" duration="13743000" />
     </task>
     <task id="LOCAL-00016" summary="3 - 문제와 풀이">
       <option name="closed" value="true" />
@@ -600,14 +595,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703940130676</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="9 - 메서드와 형변환">
+      <option name="closed" value="true" />
+      <created>1703940859624</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1703940859624</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6 - 형변환2 - 계산과 형변환" />
     <MESSAGE value="6 - 계산과 형변환" />
     <MESSAGE value="7 - Scanner 학습" />
     <MESSAGE value="7 - Scanner - 기본 예제" />
@@ -632,6 +634,7 @@
     <MESSAGE value="9 - 반환 타입" />
     <MESSAGE value="9 - 메서드 호출과 값 전달1" />
     <MESSAGE value="9 - 메서드 호출과 값 전달2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - 메서드 호출과 값 전달2" />
+    <MESSAGE value="9 - 메서드와 형변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - 메서드와 형변환" />
   </component>
 </project>
