@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="9 - 메서드 사용" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="9 - 메서드 정의" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,15 +205,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="10432000" />
-    </task>
-    <task id="LOCAL-00011" summary="3 - 연산자 우선순위">
-      <option name="closed" value="true" />
-      <created>1702564034312</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1702564034312</updated>
+      <workItem from="1703171743609" duration="10833000" />
     </task>
     <task id="LOCAL-00012" summary="3 - 증감 연산자">
       <option name="closed" value="true" />
@@ -599,14 +591,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703937932987</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="9 - 메서드 정의">
+      <option name="closed" value="true" />
+      <created>1703938058675</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1703938058675</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6 - 스코프1 - 지역 변수와 스코프" />
     <MESSAGE value="6 - 스코프2 - 스코프 존재 이유" />
     <MESSAGE value="6 - 형변환1 - 자동 형변환" />
     <MESSAGE value="6 - 형변환2 - 명시적 형변환" />
@@ -631,6 +630,7 @@
     <MESSAGE value="8 - 문제와 풀이3" />
     <MESSAGE value="9 - 메소드 시작" />
     <MESSAGE value="9 - 메서드 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - 메서드 사용" />
+    <MESSAGE value="9 - 메서드 정의" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - 메서드 정의" />
   </component>
 </project>
