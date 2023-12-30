@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 형변환2 - 명시적 형변환" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="6 - 계산과 형변환">
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,56 +46,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/repos/java-start/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/Desktop/repos/java-start/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Comp1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.CondOp1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HelloJava.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If4.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If5.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.If6.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperationEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperationEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperationEx3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Operator2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Operator3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Operator4.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperatorAdd1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Switch1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Switch3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Switch4.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var5.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var6.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var7.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Var8.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VarEx1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VarEx2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VarEx3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.While1_1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.While1_2.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/repos/java-start/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/Desktop/repos/java-start/src/Main.java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Comp1.executor": "Run",
+    "애플리케이션.CondOp1.executor": "Run",
+    "애플리케이션.HelloJava.executor": "Run",
+    "애플리케이션.If1.executor": "Run",
+    "애플리케이션.If2.executor": "Run",
+    "애플리케이션.If3.executor": "Run",
+    "애플리케이션.If4.executor": "Run",
+    "애플리케이션.If5.executor": "Run",
+    "애플리케이션.If6.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.OperationEx1.executor": "Run",
+    "애플리케이션.OperationEx2.executor": "Run",
+    "애플리케이션.OperationEx3.executor": "Run",
+    "애플리케이션.Operator2.executor": "Run",
+    "애플리케이션.Operator3.executor": "Run",
+    "애플리케이션.Operator4.executor": "Run",
+    "애플리케이션.OperatorAdd1.executor": "Run",
+    "애플리케이션.Scanner1.executor": "Run",
+    "애플리케이션.Switch1.executor": "Run",
+    "애플리케이션.Switch2.executor": "Run",
+    "애플리케이션.Switch3.executor": "Run",
+    "애플리케이션.Switch4.executor": "Run",
+    "애플리케이션.Var1.executor": "Run",
+    "애플리케이션.Var2.executor": "Run",
+    "애플리케이션.Var3.executor": "Run",
+    "애플리케이션.Var5.executor": "Run",
+    "애플리케이션.Var6.executor": "Run",
+    "애플리케이션.Var7.executor": "Run",
+    "애플리케이션.Var8.executor": "Run",
+    "애플리케이션.VarEx1.executor": "Run",
+    "애플리케이션.VarEx2.executor": "Run",
+    "애플리케이션.VarEx3.executor": "Run",
+    "애플리케이션.While1_1.executor": "Run",
+    "애플리케이션.While1_2.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
@@ -201,7 +205,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="2434000" />
+      <workItem from="1703171743609" duration="2468000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -507,15 +511,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703173595864</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="6 - 계산과 형변환">
+      <option name="closed" value="true" />
+      <created>1703598637771</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1703598637771</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 비교 연산자" />
-    <MESSAGE value="3 - 논리 연산자" />
     <MESSAGE value="3 - 대입 연산자" />
     <MESSAGE value="3 - 문제와 풀이" />
     <MESSAGE value="4 - if문1 - if,else" />
@@ -539,6 +549,8 @@
     <MESSAGE value="6 - 스코프2 - 스코프 존재 이유" />
     <MESSAGE value="6 - 형변환1 - 자동 형변환" />
     <MESSAGE value="6 - 형변환2 - 명시적 형변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 - 형변환2 - 명시적 형변환" />
+    <MESSAGE value="6 - 형변환2 - 계산과 형변환" />
+    <MESSAGE value="6 - 계산과 형변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 - 계산과 형변환" />
   </component>
 </project>
