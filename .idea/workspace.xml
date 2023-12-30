@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - 문제와 풀이3" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - 문제와 풀이4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +205,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="4198000" />
+      <workItem from="1703171743609" duration="5246000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -565,14 +567,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703910616839</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="7 - 문제와 풀이4">
+      <option name="closed" value="true" />
+      <created>1703911098727</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1703911098727</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 삼항 연산자" />
     <MESSAGE value="4 - 문제와 풀이1" />
     <MESSAGE value="4 - 문제와 풀이2" />
     <MESSAGE value="5 - 반복문 시작" />
@@ -597,6 +606,7 @@
     <MESSAGE value="7 - 문제와 풀이1" />
     <MESSAGE value="7 - 문제와 풀이2" />
     <MESSAGE value="7 - 문제와 풀이3" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이3" />
+    <MESSAGE value="7 - 문제와 풀이4" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이4" />
   </component>
 </project>
