@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 향상된 for문">
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 문제와 풀이2">
       <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,23 +206,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="8036000" />
-    </task>
-    <task id="LOCAL-00005" summary="2 - 변수 타입1">
-      <option name="closed" value="true" />
-      <created>1702391372890</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1702391372890</updated>
-    </task>
-    <task id="LOCAL-00006" summary="2 - 변수 타입2">
-      <option name="closed" value="true" />
-      <created>1702391970773</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1702391970773</updated>
+      <workItem from="1703171743609" duration="8490000" />
     </task>
     <task id="LOCAL-00007" summary="2 - 변수 멍멍 규칙">
       <option name="closed" value="true" />
@@ -610,15 +584,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703918579723</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="8 - 문제와 풀이1">
+      <option name="closed" value="true" />
+      <created>1703918982867</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1703918982867</updated>
+    </task>
+    <task id="LOCAL-00055" summary="8 - 문제와 풀이2">
+      <option name="closed" value="true" />
+      <created>1703919420242</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1703919420242</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - for문1" />
-    <MESSAGE value="5 - for문2" />
     <MESSAGE value="5 - 중첩 반복문" />
     <MESSAGE value="5 - 문제와 풀이1" />
     <MESSAGE value="5 - 문제와 풀이2" />
@@ -642,6 +630,8 @@
     <MESSAGE value="8 - 2차원 배열 - 리팩토링1" />
     <MESSAGE value="8 - 2차원 배열 - 리팩토링2" />
     <MESSAGE value="8 - 향상된 for문" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 - 향상된 for문" />
+    <MESSAGE value="8 - 문제와 풀이1" />
+    <MESSAGE value="8 - 문제와 풀이2" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - 문제와 풀이2" />
   </component>
 </project>
