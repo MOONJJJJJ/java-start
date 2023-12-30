@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - 문제와 풀이2">
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
-    </list>
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - 문제와 풀이3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +203,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="3862000" />
+      <workItem from="1703171743609" duration="4198000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -560,14 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703910322660</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="7 - 문제와 풀이3">
+      <option name="closed" value="true" />
+      <created>1703910616839</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1703910616839</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - switch문" />
     <MESSAGE value="4 - 삼항 연산자" />
     <MESSAGE value="4 - 문제와 풀이1" />
     <MESSAGE value="4 - 문제와 풀이2" />
@@ -592,6 +596,7 @@
     <MESSAGE value="7 - Scanner - 반복 예제" />
     <MESSAGE value="7 - 문제와 풀이1" />
     <MESSAGE value="7 - 문제와 풀이2" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이2" />
+    <MESSAGE value="7 - 문제와 풀이3" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이3" />
   </component>
 </project>
