@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="7 - 문제와 풀이4">
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 배열 시작">
+      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/user/Desktop/repos/java-start/src/Main.java",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Array1.executor": "Run",
     "애플리케이션.Comp1.executor": "Run",
     "애플리케이션.CondOp1.executor": "Run",
     "애플리케이션.HelloJava.executor": "Run",
@@ -205,7 +207,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="5246000" />
+      <workItem from="1703171743609" duration="5545000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -575,14 +577,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703911098727</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="8 - 배열 시작">
+      <option name="closed" value="true" />
+      <created>1703916461110</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1703916461110</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 문제와 풀이1" />
     <MESSAGE value="4 - 문제와 풀이2" />
     <MESSAGE value="5 - 반복문 시작" />
     <MESSAGE value="5 - while문1" />
@@ -607,6 +616,7 @@
     <MESSAGE value="7 - 문제와 풀이2" />
     <MESSAGE value="7 - 문제와 풀이3" />
     <MESSAGE value="7 - 문제와 풀이4" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이4" />
+    <MESSAGE value="8 - 배열 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - 배열 시작" />
   </component>
 </project>
