@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 배열 시작">
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
+    <list default="true" id="329cedab-066f-4062-9962-4857349d8122" name="변경" comment="8 - 배열의 선언과 생성">
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,11 +105,11 @@
       <recent name="C:\Users\user\Desktop\repos\java-start\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-start\src\array" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scanner\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scanner" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\casting" />
       <recent name="C:\Users\user\Desktop\repos\java-start\src\scope" />
-      <recent name="C:\Users\user\Desktop\repos\java-start\src\loop\ex" />
     </key>
   </component>
   <component name="RunManager">
@@ -207,7 +208,7 @@
       <workItem from="1702826454847" duration="2133000" />
       <workItem from="1702909061170" duration="2879000" />
       <workItem from="1702999665690" duration="2915000" />
-      <workItem from="1703171743609" duration="5545000" />
+      <workItem from="1703171743609" duration="6636000" />
     </task>
     <task id="LOCAL-00001" summary="sectioin 1">
       <option name="closed" value="true" />
@@ -585,14 +586,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703916461110</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="8 - 배열의 선언과 생성">
+      <option name="closed" value="true" />
+      <created>1703916900612</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1703916900612</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 문제와 풀이2" />
     <MESSAGE value="5 - 반복문 시작" />
     <MESSAGE value="5 - while문1" />
     <MESSAGE value="5 - while문2" />
@@ -617,6 +625,7 @@
     <MESSAGE value="7 - 문제와 풀이3" />
     <MESSAGE value="7 - 문제와 풀이4" />
     <MESSAGE value="8 - 배열 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 - 배열 시작" />
+    <MESSAGE value="8 - 배열의 선언과 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - 배열의 선언과 생성" />
   </component>
 </project>
